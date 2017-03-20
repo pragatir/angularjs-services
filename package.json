@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-services",
+  "version": "1.0.0",
+  "description": "Examples for angularJS service In-Depth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragatir/angularjs-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragatir/angularjs-services/issues"
+  },
+  "homepage": "https://github.com/pragatir/angularjs-services#readme"
+}
